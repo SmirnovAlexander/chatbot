@@ -55,9 +55,14 @@ bot  >> I have never been to Mexico, so I am not sure what I would think of ther
 
 ### launching
 
-download fine-tuned model from [google drive](https://drive.google.com/file/d/1at1eu7--13b9WBX-nv9DrsR1xordwlwx/view?usp=sharing)
 ```
+git clone https://github.com/SmirnovAlexander/chatbot
+cd chatbot
 
+pip install -r requirements.txt
+download fine-tuned model from [google drive](https://drive.google.com/file/d/1at1eu7--13b9WBX-nv9DrsR1xordwlwx/view?usp=sharing) and extract it to `model` folder.
+
+python run.py
 ```
 
 ### examples
