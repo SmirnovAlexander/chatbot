@@ -1,5 +1,7 @@
 # TrumpBot
 
+- [Research & Training & Ideas file](./Research.ipynb)
+
 There are 2 ways of talking w/ Trump:
 - using [blenderbot](https://parl.ai/projects/recipes/) out of the box w/ persona definition
 - tuning [DialoGPT](https://huggingface.co/microsoft/DialoGPT-medium)
